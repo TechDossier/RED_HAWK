@@ -80,7 +80,7 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 + All set, now you can enjoy the bloggers view.
 
 # Usage:
-- git clone `https://github.com/Tuhinshubhra/RED_HAWK`
+- git clone `https://github.com/TechDossier/RED_HAWK`
 - cd RED_HAWK
 - php rhawk.php
 - Use the "help" command to see the command list or type in the domain name you want to scan (without Http:// OR Https://).
@@ -110,16 +110,11 @@ alt="Video Thumbnail" border="10" /></a>
 Want to contribute to RED HAWK or point out something wrong? Just create a new issue here: https://github.com/Tuhinshubhra/RED_HAWK/issues/new
 I'd love to hear from you.
 
-# Support and Donations
-Found RED HAWK cool? well you could buy me a cup of tea ;) (no alcohol plz xD) just send any amount of donations (in BTC) to this address : **1NbiQidWWVVhWknsfPSN1MuksF8cbXWCku**
-
-Can't donate? well that's no problem just drop a **THANK YOU** this will motivate me to create more exciting stuffs for you ;)
-
 # TODOs
 
 - Make a proper update option ( Installs current version automatically )
 - Add more CMS to the detector
-- Improve The WordPress Scanner ( Add User, Theme & Plugins Enumeration )
+- Improve The WordPress Scanner ( Add User, Theme & Pugins Enumeration )
 - Create a web version of the scanner
 - Add XSS & LFI Scanner
 - Improve the Links grabber thingy under bloggers view
